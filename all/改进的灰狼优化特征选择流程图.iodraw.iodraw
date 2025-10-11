@@ -13,7 +13,7 @@
         <mxCell id="ZYOBadCE4Plp0cxPkccR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZYOBadCE4Plp0cxPkccR-2" value="计算a，b,c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZYOBadCE4Plp0cxPkccR-2" value="使用xx策略更新灰狼位置逼近灰狼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZYOBadCE4Plp0cxPkccR-3" value="进行围猎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
