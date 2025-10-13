@@ -8,7 +8,7 @@
           <mxGeometry x="200" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZYOBadCE4Plp0cxPkccR-0" value="初始化参数，设置种群规模，迭代次数" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="161" y="120" width="280" height="40" as="geometry" />
+          <mxGeometry x="161" y="120" width="239" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZYOBadCE4Plp0cxPkccR-1" value="将狼群按照适应度升序排序，划分为上、中、下子群" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="440" width="281" height="40" as="geometry" />
