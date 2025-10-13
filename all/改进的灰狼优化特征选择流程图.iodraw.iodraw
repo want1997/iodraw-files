@@ -23,16 +23,16 @@
           <mxGeometry x="161" y="200" width="239" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JPqc74VYbRtzW0OZ6SC-0" value="计算a，A,C,X1,X2,X3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="159" y="520" width="281" height="40" as="geometry" />
+          <mxGeometry x="159" y="520" width="241" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JPqc74VYbRtzW0OZ6SC-2" value="更新狼群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="600" width="280" height="40" as="geometry" />
+          <mxGeometry x="160" y="600" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JPqc74VYbRtzW0OZ6SC-3" value="是否最大迭代数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="214.88" y="680" width="130.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_JPqc74VYbRtzW0OZ6SC-4" value="j结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="800" width="150" height="40" as="geometry" />
+          <mxGeometry x="200" y="800" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JPqc74VYbRtzW0OZ6SC-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.451;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
