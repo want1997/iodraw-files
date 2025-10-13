@@ -29,7 +29,7 @@
           <mxGeometry x="160" y="600" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_JPqc74VYbRtzW0OZ6SC-3" value="是否最大迭代数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="259.5" y="680" width="100.5" height="80" as="geometry" />
+          <mxGeometry x="229.75" y="680" width="100.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_JPqc74VYbRtzW0OZ6SC-4" value="j结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="229" y="800" width="141" height="30" as="geometry" />
@@ -84,8 +84,8 @@
         </mxCell>
         <mxCell id="_JPqc74VYbRtzW0OZ6SC-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.451;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="60" as="sourcePoint" />
-            <mxPoint x="661.25" y="100" as="targetPoint" />
+            <mxPoint x="279.38" y="640" as="sourcePoint" />
+            <mxPoint x="280.63" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
